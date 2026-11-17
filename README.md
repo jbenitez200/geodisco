@@ -11,7 +11,8 @@ Proyecto de emprendimiento de 2.º SMR B · Unidad 2.
 | Persona | Roles |
 |---|---|
 | Juanma Benitez | CEO y Diseño |
-| Javier Bermejo Trabazo | CFO y CTO |
+| Javier Bermejo Trabazo | CFO |
+| Leila Barbachi Arenas | CTO |
 
 ## La idea
 
